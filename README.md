@@ -43,9 +43,9 @@ I enjoy turning ideas into working mobile solutions 🚀
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [Worker Finder App](https://github.com/your-username/worker-finder) | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"> | Connects people with local service providers. |
-| [Escrow Payment Platform](https://github.com/your-username/escrow-app) | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"> | Secure online transactions with escrow. |
-| [BMI Calculator](https://github.com/isfar-dev/bmi_calculator) | <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> | Simple app to calculate BMI with clean UI. |
+| [Quotes & Notes App](https://github.com/isfar-dev/quotes-and-notes-app) | <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> | A feature-rich app with 5000+ famous quotes and personal note-taking functionality. |
+| [Quota Movement-2024 App](https://github.com/isfar-dev/july-2024-quota-movement) | <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"> | A dynamic Android app featuring authentication, REST API integration, and real-time data on the Quota Movement 2024. |
+| [BMI Calculator](https://github.com/isfar-dev/bmi_calculator) | <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> | Simple app to calculate BMI with clean UI. |
 
 ---
 
